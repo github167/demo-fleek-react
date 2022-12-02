@@ -14,3 +14,4 @@ yarn && yarn build
 build
 4. click "Deploy site"
 5. https://dry-river-9562.on.fleek.co/
+6. hash: QmTfiHwebxrFDswbNwXAudYPiqTEe43VitX4tiQsGt58wN
