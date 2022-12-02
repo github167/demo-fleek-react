@@ -4,6 +4,11 @@ http://fleek.co
 
 jmuvoqjbpxzuximdnc@tmmcv.com
 
+Create reactjs
+1. npx create-react-app demo-fleek-react
+2. add line `"homepage": ".","` in package.json
+
+Deploy to fleek
 1. connect to github
 2. choose github167/demo-fleek-react
 2. choose IPFS
