@@ -1,3 +1,16 @@
-## About me
+Original: https://www.youtube.com/watch?v=7vj__ma3lqQ
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+http://fleek.co
+
+jmuvoqjbpxzuximdnc@tmmcv.com
+
+1. connect to github
+2. choose github167/demo-fleek-react
+2. choose IPFS
+3. in basic build settings:
+Create React App
+node:16.18
+yarn && yarn build
+build
+4. click "Deploy site"
+5. https://dry-river-9562.on.fleek.co/
