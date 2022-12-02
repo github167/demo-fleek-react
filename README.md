@@ -20,3 +20,4 @@ build
 4. click "Deploy site"
 5. https://dry-river-9562.on.fleek.co/
 6. https://ipfs.io/ipfs/QmXTnkG9YHRdHX5mkfqJH9R5P2Mhipq5oz9vGRNMAB3h5J/
+7. Reference: https://medium.com/elbstack/decentralized-hosting-of-a-static-react-app-with-ipfs-aae11b860f5e
